@@ -1,7 +1,7 @@
 
 ![duck](https://github.com/user-attachments/assets/a85eb7fe-c8e6-4409-8c44-4456b2344bce)
 
-## Welcome to Age of Duck ELO Overlay for Age of Empires 2 DE 🎉
+## Welcome to Age of Duck Mod - ELO & Helper Overlay for Age of Empires 2 DE 🎉
 
 ![Screenshot](https://github.com/user-attachments/assets/6690ca14-9ae0-4693-a259-e4417be05e12)
 
