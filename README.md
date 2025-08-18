@@ -3,7 +3,7 @@
 
 ## Welcome to Age of Duck Mod - ELO & Helper Overlay for Age of Empires 2 DE 🎉
 
-![Screenshot](https://github.com/user-attachments/assets/6690ca14-9ae0-4693-a259-e4417be05e12)
+<img width="432" height="347" alt="image" src="https://github.com/user-attachments/assets/e5dcf37c-35e9-420e-aa16-eeead268925c" />
 
 Age of Duck is a lightweight, real-time overlay application designed to enhance your Age of Empires 2: Definitive Edition (AoE2 DE) gaming experience by displaying live player ELO ratings (current and peak) to give you some foreknowledge before your game even starts.
 
@@ -16,7 +16,15 @@ When you're playing AoE2 DE, it can be hard to quickly assess the skill levels o
 
 - Shows player names, civilizations, and team compositions in a clean overlay
 
-- Automatically detects when AoE2 DE is running and updates live data every few seconds
+- Simplified Civilization Data
+  - Civilization Bonus Data
+  - Civilization Strength Summary
+  - Civilization Weaknesses Summary
+  - Civlization Strategies Summary
+  - ***COUNTER UNIT GUIDE***
+    - This is an extremely useful feature to find out which units to counter with. Britons sending Elite Longbowman? Open the Counter Unit Guide, Click Castle > Longbowman and see what units your civ can make to counter. This is a much simpler way compared to the in-game Civilisation info which takes over the whole screen.
+
+- Automatically detects when AoE2 DE is running and updates live data
 
 - Tray icon for quick access to settings, updates, and help
 
