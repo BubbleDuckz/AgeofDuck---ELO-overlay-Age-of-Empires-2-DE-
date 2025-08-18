@@ -21,8 +21,11 @@ When you're playing AoE2 DE, it can be hard to quickly assess the skill levels o
   - Civilization Strength Summary
   - Civilization Weaknesses Summary
   - Civlization Strategies Summary
-  - ***COUNTER UNIT GUIDE***
+  
+***COUNTER UNIT GUIDE***
     - This is an extremely useful feature to find out which units to counter with. Britons sending Elite Longbowman? Open the Counter Unit Guide, Click Castle > Longbowman and see what units your civ can make to counter. This is a much simpler way compared to the in-game Civilisation info which takes over the whole screen.
+<img width="451" height="933" alt="image" src="https://github.com/user-attachments/assets/7a7fca09-1c6b-40d0-b737-a8f307a737d4" />
+
 
 - Automatically detects when AoE2 DE is running and updates live data
 
