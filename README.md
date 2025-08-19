@@ -21,7 +21,7 @@ When you're playing AoE2 DE, it can be hard to quickly assess the skill levels o
   - Civilization Bonus Data
   - Civilization Strength Summary
   - Civilization Weaknesses Summary
-  - Civlization Strategies Summary
+  - Civilization Strategies Summary
   
 
 ## ***COUNTER UNIT GUIDE***
