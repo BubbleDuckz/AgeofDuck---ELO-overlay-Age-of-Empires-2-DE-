@@ -17,7 +17,7 @@ When you're playing AoE2 DE, it can be hard to quickly assess the skill levels o
 
 - Shows player names, civilizations, and team compositions in a clean overlay
 
-- Simplified Civilization Data
+- Simplified Civilization Data (Thanks to [AOE Fandom](https://ageofempires.fandom.com/wiki/Category:Age_of_Empires_II))
   - Civilization Bonus Data
   - Civilization Strength Summary
   - Civilization Weaknesses Summary
