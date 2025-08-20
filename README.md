@@ -8,7 +8,7 @@
 
 <!-- Intro Image -->
 <p>
-  <img src="https://github.com/user-attachments/assets/feeb2946-7e02-40ba-a1c1-2e7507245b74" alt="Overlay Example" width="438" height="315" style="border-radius:10px;">
+  ![eloview](https://github.com/user-attachments/assets/a8762ffc-a934-4338-881c-5cf21b804024)
 </p>
 
 <p>
@@ -53,7 +53,7 @@ This is much simpler compared to the in-game Civilization info, which takes over
 </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/bd55443c-f669-44c5-afd3-3811ec9ded4b" alt="Counter Unit Guide" width="501" height="866" style="border-radius:10px;">
+  ![counterview](https://github.com/user-attachments/assets/b3dd82de-1027-40f7-ad86-762152d48014)
 </p>
 
 <hr>
