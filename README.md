@@ -69,4 +69,6 @@ Join our community on Discord! 💬 [Discord](https://discord.gg/hWsa7KS9nw)
 [❤️Donate❤️](https://paypal.me/mywebdeveloper)
 
 Disclaimer: 
-Age of Duck is an independent fan-made tool and is not affiliated with or endorsed by Microsoft or World’s Edge.
+Age of Duck is an independent fan-made tool.
+It is not affiliated with, endorsed, or supported by Microsoft, World’s Edge, or Xbox Game Studios.
+All trademarks and copyrights belong to their respective owners.
