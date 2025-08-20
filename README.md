@@ -9,7 +9,7 @@
 Age of Duck is a lightweight, real-time overlay application designed to enhance your Age of Empires 2: Definitive Edition (AoE2 DE) gaming experience by displaying live player ELO ratings (current and peak) to give you some foreknowledge before your game even starts.
 
 **What is this app for?**
-When you're playing AoE2 DE, it can be hard to quickly assess the skill levels of players in your current match. Age of Duck connects to the AoE2 Companion API to fetch live match data and display player ratings, civilizations, and game modes directly on your screen — no need to alt-tab or open external websites.
+When you're playing AoE2 DE, it can be hard to quickly assess the skill levels of players in your current match. Age of Duck connects to the [AoE2 Companion App](https://app.aoe2companion.com/) to fetch live match data and display player ratings, civilizations, and game modes directly on your screen — no need to alt-tab or open external websites.
 
 **Key features include:**
 
