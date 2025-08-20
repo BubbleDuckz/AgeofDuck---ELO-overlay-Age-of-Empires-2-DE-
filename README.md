@@ -70,3 +70,11 @@ Join our community on Discord! 💬 [Discord](https://discord.gg/hWsa7KS9nw)
 
 Disclaimer: 
 Age of Duck Mod is an independent fan-made tool. Age of Duck Mod was created under Microsoft's "[Game Content Usage Rules](https://www.xbox.com/en-US/developers/rules)" using assets from Age of Empires II: Definitive Edition, and it is not endorsed by or affiliated with Microsoft.
+
+## License & Contributions
+
+Age of Duck is **source-available** but **not open-source**.
+
+- You may **view** the code and **submit contributions**.
+- You may **not** redistribute, rebrand, or sell this software.
+- See [LICENSE](./LICENSE) and [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
