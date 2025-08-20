@@ -61,6 +61,7 @@ This is much simpler compared to the in-game Civilization info, which takes over
 <ul>
   <li>Automatically detects when AoE2 DE is running and updates live data</li>
   <li>Tray icon for quick access to settings, updates, and help</li>
+  <li>Scale UI with - and + buttons</li>
   <li>Easy to set your AoE2 profile ID for personalized data</li>
   <li>Automatic update checks and in-app update downloads</li>
   <li>Lightweight and non-intrusive — stays on top but won’t interfere with your gameplay</li>
