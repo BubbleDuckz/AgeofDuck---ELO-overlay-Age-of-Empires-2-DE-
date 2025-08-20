@@ -69,6 +69,4 @@ Join our community on Discord! 💬 [Discord](https://discord.gg/hWsa7KS9nw)
 [❤️Donate❤️](https://paypal.me/mywebdeveloper)
 
 Disclaimer: 
-Age of Duck is an independent fan-made tool.
-It is not affiliated with, endorsed, or supported by Microsoft, World’s Edge, or Xbox Game Studios.
-All trademarks and copyrights belong to their respective owners.
+Age of Duck Mod is an independent fan-made tool. Age of Duck Mod was created under Microsoft's "[Game Content Usage Rules](https://www.xbox.com/en-US/developers/rules)" using assets from Age of Empires II: Definitive Edition, and it is not endorsed by or affiliated with Microsoft.
