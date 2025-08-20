@@ -67,3 +67,6 @@ This is a sleek, lightweight overlay designed to keep your AoE2 DE stats right w
 Join our community on Discord! 💬 [Discord](https://discord.gg/hWsa7KS9nw)
 
 [❤️Donate❤️](https://paypal.me/mywebdeveloper)
+
+Disclaimer: 
+Age of Duck is an independent fan-made tool and is not affiliated with or endorsed by Microsoft or World’s Edge.
