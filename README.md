@@ -7,9 +7,8 @@
 </p>
 
 <!-- Intro Image -->
-<p>
-  ![eloview](https://github.com/user-attachments/assets/a8762ffc-a934-4338-881c-5cf21b804024)
-</p>
+![eloview](https://github.com/user-attachments/assets/0e2b6c05-d98f-402a-9856-8f1eaf09f1b1)
+
 
 <p>
   <strong>Age of Duck</strong> is a lightweight, real-time overlay application designed to enhance your
@@ -52,9 +51,9 @@ Open the Counter Unit Guide → Click <em>Castle</em> → <em>Longbowman</em> �
 This is much simpler compared to the in-game Civilization info, which takes over the whole screen.
 </p>
 
-<p>
+
   ![counterview](https://github.com/user-attachments/assets/b3dd82de-1027-40f7-ad86-762152d48014)
-</p>
+
 
 <hr>
 
